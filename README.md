@@ -1,7 +1,7 @@
 ### Holaa, soy Pamela 
 ## 🐞🪐🧿🪆🪴🤎
 
- <img src="https://i.pinimg.com/originals/b1/ad/ba/b1adba819abf70d9ea98d4e65ea9f2a5.gif">
+ <img src="https://i.pinimg.com/originals/09/d9/d8/09d9d832ce7e7991c41e456fd7799b43.gif">
 
 <!--
 **pamelagomz/pamelagomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
